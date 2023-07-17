@@ -1,6 +1,6 @@
 import {renderNavbar} from './navbar.js';
-import { homeRender } from './home.js';
+import { renderHome } from './home.js';
 
 
 renderNavbar();
-homeRender();
+renderHome();
